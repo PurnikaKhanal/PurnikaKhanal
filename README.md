@@ -8,5 +8,4 @@ Hi there 👋<br>It's me Purnika Khanal <br>Computer Engineering ’27 (Nepal)  
 ![](https://github-readme-stats.vercel.app/api?username=PurnikaKhanal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PurnikaKhanal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurnikaKhanal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 👓 Profile Views 
-![](https://visitcount.itsvg.in/api?id=PurnikaKhanal&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
