@@ -80,13 +80,20 @@ I'm actively seeking:
 
 ---
 
-## 📊 GitHub Activity
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=PurnikaKhanal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=IoT+Developer+%F0%9F%94%8C;Disaster+Tech+Researcher+%F0%9F%9A%A8;Internet+Governance+Advocate+%F0%9F%8C%90;Building+Tech+for+Social+Impact+%E2%9C%A8)](https://github.com/PurnikaKhanal)
+
+</div>
+
+---
 
 ### 💻 Tech Stack & Expertise
 
