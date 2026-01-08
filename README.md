@@ -51,13 +51,6 @@ C++ wellness application with holistic health monitoring
 
 **Environmental Advocate**: Coordinated "Turning Trash to Treasure" workshop, teaching sustainable practices and upcycling techniques to local community members.
 
-## 🛠️ Technical Arsenal
-
-**Languages**: C++ • C • Python • Assembly  
-**IoT & Hardware**: Arduino • Sensor Integration • Embedded Systems  
-**Data Science**: NumPy • Pandas • Matplotlib • scikit-learn  
-**Tools**: Git/GitHub • Figma • Notion
-
 ## 🎯 Currently Learning
 
 - Natural Language Processing (NLP) techniques
