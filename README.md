@@ -117,7 +117,7 @@ I'm actively seeking:
 ### 🏆 Key Metrics
 
 - 🎓 **Education**: Computer Engineering '27
-- 🔬 **Research**: 1 paper under review (IDNs & Linguistic Inclusivity)
+- 🔬 **Research**: 1 paper ongoing (IDNs & Linguistic Inclusivity)
 - 🌐 **ICANN**: NextGen@ICANN 85 Participant
 - 💡 **Active Projects**: IoT Disaster Management System
 - 🎯 **Focus Areas**: IoT, AI, Internet Governance, 5G Networks
