@@ -1,51 +1,18 @@
 # 👋 Hi, I'm Purnika Khanal
 
-**Computer Engineering '27 | IoT Researcher | Internet Governance Advocate**  
-*Building technology that bridges gaps and saves lives*
-
-## 🚨 What I'm Building
-
-Currently developing an **IoT-powered disaster management system** that detects earthquakes, floods, and fires in real-time, automatically dispatching emergency calls to relevant stations (fire brigades, rescue services) and pre-configured contacts. The system features:
-- Multi-sensor integration for comprehensive disaster detection
-- Intelligent 10-second disable override for false alarms
-- Voice-activated emergency bypass (detects keywords like "help")
-- Smart call routing to appropriate emergency services
-
-**Impact**: Designed for rapid deployment in disaster-prone regions, particularly targeting communities with limited emergency infrastructure.
+**Computer Engineering '28 | IoT Researcher | Internet Governance Advocate**  
 
 ## 🔬 Research & Advocacy
 
 **NextGen@ICANN Participant** (ICANN 85) | Exploring the intersection of technology and digital inclusion
 
 **Current Research Focus:**
-- 📝 *"Role of Internationalized Domain Names (IDNs) in Promoting Linguistic Inclusivity on the Internet"* (Paper under review)
+- 📝 *"Role of Internationalized Domain Names (IDNs) in Promoting Linguistic Inclusivity on the Internet"* (Ongoing)
 - 🌐 Internet governance and policy frameworks for universal access
 - 🤖 Convergence of IoT, AI, and 5G for smart rural connectivity solutions
 - 🧠 Natural Language Processing and neural network architectures
 
 **Future Research Vision:** Developing intelligent sensor networks that leverage 5G and edge computing to bring reliable internet access to underserved rural communities, particularly in mountainous regions of Nepal and similar geographies.
-
-## 💡 Featured Projects
-
-### 🏥 Hospital Management System
-Comprehensive healthcare coordination platform with role-based access control
-- **Key Features**: Emergency scheduling, patient records management, automated appointment booking/cancellation, robust backup systems
-- **Tech Stack**: Database-driven architecture with secure authentication layers
-
-### 🛒 Cross-Platform E-Commerce Dashboard
-Multi-role marketplace with built-in resilience and financial management
-- Admin, seller, and customer portals with comprehensive analytics
-- Financial tracking, refund processing, stock validation
-- Cross-platform compatibility (Windows/Linux)
-- Crash-resistant architecture using temp file replacement pattern
-
-### 💪 Personal Health Tracker
-C++ wellness application with holistic health monitoring
-- Tracks water intake, sleep patterns, steps, and menstrual cycles
-- Color-coded goal progress with visual summary bars
-- Smart goal calculation (auto-adjusts weight targets based on height)
-- Previous value prompts for context-aware data entry
-- Modern C++ implementation with STL containers and safe input handling
 
 ## 🌱 Community Impact
 
